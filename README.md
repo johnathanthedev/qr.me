@@ -32,8 +32,8 @@ Follow these steps to generate your own qr code
 
 ### Prerequisites
 
-Node v20.10.0
-NVM v0.39.1
+- Node v20.10.0
+- NVM v0.39.1
 
 ### Installation
 
